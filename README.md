@@ -13,9 +13,9 @@ AliyunSmsUtil.test();
 
 # 联系开发者
 ## (购买短信，可以联系淡定哥微信: ianwang003 ，4.5分一条短信)
-> author:  淡定哥 </br>
- blog:  http://ian.wang </br>
- homepage:  http://www.freecto.com </br>
+> 作者:  淡定哥 </br>
+ 博客:  http://ian.wang </br>
+ 主页:  http://www.freecto.com </br>
  微信号:  ianwang003 </br>
  github:  https://github.com/freecto </br>
 
