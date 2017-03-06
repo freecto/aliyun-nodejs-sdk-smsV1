@@ -12,13 +12,15 @@ AliyunSmsUtil.test();
 ```
 
 # 联系开发者
-> (购买短信，可以联系淡定哥微信: ianwang003 ，4.5分一条短信)
+## (购买短信，可以联系淡定哥微信: ianwang003 ，4.5分一条短信)
 > author:  淡定哥
-> blog:  http://ian.wang
-> homepage:  http://www.freecto.com
-> 微信号:  ianwang003
-> github:  https://github.com/freecto
+ blog:  http://ian.wang
+ homepage:  http://www.freecto.com
+ 微信号:  ianwang003
+ github:  https://github.com/freecto
+
 
 # 关注微信公众号: IT全栈
 ![关注微信公众号: IT全栈](http://www.freecto.com/img/freecto-weixin.jpg "关注微信公众号: IT全栈")
+
 
